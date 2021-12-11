@@ -6,4 +6,4 @@ https://docs.google.com/presentation/d/1jzraOFPi-HdeAEyvkI0AyguO4sl0kdNiGqaSb5kU
 <strong>Dijkstra Algorithm</strong>
 <img src ="https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif">
 <strong>Bellman-Ford Algorithm</strong>
-<img src = "https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm#/media/File:Bellman%E2%80%93Ford_algorithm_example.gif">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Shortest_path_Dijkstra_vs_BellmanFord.gif">
